@@ -22,9 +22,5 @@ sp.on("data", function(rawData) {
 		// Click Mode
 		mokugyo.hit();
 
-	} else {
-		// Cursor Mode
-		// key(data);
 	}
-
 });
